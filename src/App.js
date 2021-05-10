@@ -35,7 +35,7 @@ function App() {
           width: "100%",
         }}
       >
-        Dong Ho Painting Gen ©2021 Created by 1997 Team
+        SlowFast ©2021 Created by 1997 Team
       </Footer>
     </Layout>
   );
